@@ -1,0 +1,5 @@
+huggingface_hub
+streamlit
+google-adk
+openai
+pymupdf4llm
